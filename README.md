@@ -1,2 +1,2 @@
 # BalQuirs
-Prueba Index, Clase 2
+Prueba Index, Clase 3
